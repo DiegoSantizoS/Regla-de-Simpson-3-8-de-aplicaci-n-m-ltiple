@@ -1,0 +1,1 @@
+# Regla-de-Simpson-3-8-de-aplicaci-n-m-ltiple
