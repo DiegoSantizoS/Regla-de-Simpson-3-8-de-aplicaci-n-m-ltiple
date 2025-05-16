@@ -1,1 +1,3 @@
-# Regla-de-Simpson-3-8-de-aplicaci-n-m-ltiple
+# Regla-de-Simpson-3-8-de-aplicacion-multiple
+# DIEGO FERNANDO SANTIZO SAMAYOA 0901-22-15950
+![image](https://github.com/user-attachments/assets/11db12cb-7c0e-4393-a1f0-9f6fa8053b0a)
